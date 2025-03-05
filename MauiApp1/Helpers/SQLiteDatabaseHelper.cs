@@ -3,7 +3,7 @@ using SQLite;
 
 namespace MauiApp1.Helpers
 {
-    class SQLiteDatabaseHelper
+    public class SQLiteDatabaseHelper
     {
         readonly SQLiteAsyncConnection _conn;
 
